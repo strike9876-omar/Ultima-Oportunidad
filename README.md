@@ -18,7 +18,7 @@ ESTUDIANTES:
 
 Responsabilidades del proyecto:
 
--Bolaños Ccopa, Rony (script BD,tPersona)
+-Bolaños Ccopa, Rony (script BD,tProducto)
 
 -Corahua Valencia, Omar Daniel (tFactura,tDetalleFactura,FrontEnd)
 
